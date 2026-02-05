@@ -2,7 +2,7 @@
 
 A modern React dashboard layout built with Bootstrap 5, featuring a responsive navbar, collapsible sidebar, and routing.
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 project-management-dashboard/
@@ -21,7 +21,7 @@ project-management-dashboard/
 └── README.md
 ```
 
-## 🚀 Features
+##  Features
 
 - **Responsive Navbar**: Fixed top navigation with brand logo, links, and user dropdown
 - **Collapsible Sidebar**: Smooth toggle animation with active route highlighting
@@ -29,7 +29,7 @@ project-management-dashboard/
 - **Bootstrap 5**: Modern UI components and responsive grid system
 - **Bootstrap Icons**: Beautiful icons for navigation and UI elements
 
-## 📦 Installation
+##  Installation
 
 1. Install dependencies:
 ```bash
@@ -43,7 +43,7 @@ npm start
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🎯 Components
+##  Components
 
 ### Navbar.jsx
 - Fixed top navigation bar
@@ -80,7 +80,7 @@ npm start
 - Sidebar state management
 - Responsive layout with dynamic margins
 
-## 🎨 Customization
+##  Customization
 
 ### Colors
 The dashboard uses Bootstrap's default dark theme for navbar and sidebar. You can customize colors in:
@@ -98,13 +98,13 @@ Add corresponding sidebar menu items in `Sidebar.jsx`:
 { path: '/your-route', icon: 'bi-icon-name', label: 'Your Label' }
 ```
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Desktop**: Full sidebar visible by default
 - **Tablet/Mobile**: Sidebar collapses, toggle button in navbar
 - **Smooth Transitions**: Animated sidebar and content area adjustments
 
-## 🛠️ Technologies
+##  Technologies
 
 - React 18.2.0
 - React Router DOM 6.20.0
@@ -112,6 +112,6 @@ Add corresponding sidebar menu items in `Sidebar.jsx`:
 - React Bootstrap 2.9.1
 - Bootstrap Icons
 
-## 📄 License
+##  License
 
 This project is open source and available for use.
