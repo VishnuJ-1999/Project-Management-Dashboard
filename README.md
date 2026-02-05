@@ -114,4 +114,4 @@ Add corresponding sidebar menu items in `Sidebar.jsx`:
 
 ##  License
 
-This project is open source and available for use.
+This project in not fully completed. More Updates are to be needed.
